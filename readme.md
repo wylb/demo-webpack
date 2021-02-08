@@ -97,7 +97,7 @@ plugins: [
             template：'./src/about.html'
             title: '关于我们',
             filename: 'about.html',
-            chunks: ['contact']
+            chunks: ['about']
         }
     ),
 ]
